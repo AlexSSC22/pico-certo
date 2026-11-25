@@ -1,0 +1,4 @@
+dados/pico_certo.db
+__pycache__/
+*.pyc
+.venv/
